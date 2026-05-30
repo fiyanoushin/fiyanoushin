@@ -55,7 +55,7 @@ I'm a passionate software developer who loves building full-stack applications -
 ### 🔗 [SYNQ](https://github.com/fiyanoushin)
 > Real-time collaboration platform
 
-A full-featured collaboration tool built with **Django**, **React**, **Redis**, **RabbitMQ**, and **WebSockets** — enabling live, event-driven communication between users.
+A full-featured collaboration tool built with **Django**, **React**, **Redis**, **RabbitMQ**, and **WebSockets** - enabling live, event-driven communication between users.
 
 `Django` `React` `Redis` `RabbitMQ` `WebSockets`
 
