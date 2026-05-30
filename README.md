@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate software developer who loves building full-stack applications — from robust backend APIs to clean, responsive frontends. I enjoy working on real-world problems and turning ideas into scalable products.
+I'm a passionate software developer who loves building full-stack applications - from robust backend APIs to clean, responsive frontends. I enjoy working on real-world problems and turning ideas into scalable products.
 
 ---
 
@@ -76,20 +76,6 @@ An intelligent learning platform leveraging **FastAPI**, **LangGraph**, and **RA
 A seamless e-commerce experience for food ordering, built with **React** and **Django** with a clean, user-friendly interface.
 
 `React` `Django`
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Fiya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fiyanoushin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fiyanoushin&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=fiyanoushin&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
